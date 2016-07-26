@@ -80,5 +80,16 @@ void assert_failed(uint8_t* file, uint32_t line)
 /**
   * @}
   */
+/*vnsdknvksdnknkldnvsdv
+vnksjdnvksdnvsdv
+vjsdnvsd
+vsdvnsdnvsdnvsdv
+vsdnvsd
+vsdvnksdvnds
+vnjsdnvdskv
+vnjdsnvds
+vsdjvndsv
+vsdnvkds
+vsdvndsvn
 
 /******************* (C) COPYRIGHT 2011 STMicroelectronics *****END OF FILE****/
