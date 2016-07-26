@@ -35,7 +35,19 @@ int main(void)
     Delay(25); 
 		GPIO_SetBits(GPIOB,GPIO_Pin_8);
 		Delay(25);
-    	
+    // them vao//
+GPIO_ResetBits(GPIOB,GPIO_Pin_8);                                 
+    Delay(25); 
+		GPIO_SetBits(GPIOB,GPIO_Pin_8);
+		Delay(25);
+GPIO_ResetBits(GPIOB,GPIO_Pin_8);                                 
+    Delay(25); 
+		GPIO_SetBits(GPIOB,GPIO_Pin_8);
+		Delay(25);
+GPIO_ResetBits(GPIOB,GPIO_Pin_8);                                 
+    Delay(25); 
+		GPIO_SetBits(GPIOB,GPIO_Pin_8);
+		Delay(25);		
   }
 }
 
